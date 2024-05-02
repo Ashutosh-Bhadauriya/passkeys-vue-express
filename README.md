@@ -2,6 +2,8 @@
 
 This repository demonstrates how to add passkey login functionality to your Vue.js and Express app using the Hanko Passkey API. Passkey authentication is a secure and user-friendly alternative to traditional password-based authentication, providing a seamless login experience for users.
 
+For a detailed tutorial on implementing passkey login in your Vue and Express app, refer to our blog post: [How to add Passkeys to your Vue.js App](https://www.hanko.io/blog/passkeys-vuejs)
+
 ![Passkey demo](/passkey.gif)
 
 ## Prerequisites
